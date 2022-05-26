@@ -1,41 +1,54 @@
-# Project Name
-Hello Project
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Built With
-HTML
-CSS
-Technologies used
-Live Demo (if available)
-Live Demo Link
+# HTML PROJECT
 
-Getting Started
-This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
+> A simple hello project to learn how to use linters and creating branches using gitflow.
+
+
+## Built With
+
+- HTML
+- CSS
+- Technologies used
 
 To get a local copy up and running follow these simple example steps.
 
-Prerequisites
-Setup
-Install
-Usage
-Run tests
-Deployment
-Authors
-👤 Author1
+### Prerequisites
 
-GitHub: @https://github.com/mugishayannick
-Twitter: @https://twitter.com/mugishayann23
-LinkedIn: @https://www.linkedin.com/in/mugisha-yannick-1265361a1/
-🤝 Contributing
+### Setup
+
+### Install
+
+### Usage
+
+### Deployment
+
+
+
+## Author
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/mugishayannick)
+- Twitter: [@twitterhandle](https://twitter.com/mugishayann23)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mugisha-yannick-1265361a1/)
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-Show your support
+## Show your support
+
 Give a ⭐️ if you like this project!
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
-📝 License
-This project is MIT licensed.
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
