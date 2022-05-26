@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# HTML PROJECT
+# HTML&CSS HELLO PROJECT
 
 > A simple hello project to learn how to use linters and creating branches using gitflow.
 
@@ -9,7 +9,6 @@
 
 - HTML
 - CSS
-- Technologies used
 
 To get a local copy up and running follow these simple example steps.
 
@@ -29,9 +28,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/mugishayannick)
-- Twitter: [@twitterhandle](https://twitter.com/mugishayann23)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mugisha-yannick-1265361a1/)
+- GitHub: [@https://github.com/mugishayannick](https://github.handle)
+- Twitter: [@https://twitter.com/mugishayann23](https://twitter.com/mugishayann23)
+- LinkedIn: [https://www.linkedin.com/in/mugisha-yannick-1265361a1/](https://www.linkedin.com/in/mugisha-yannick-1265361a1/)
 
 ## 🤝 Contributing
 
